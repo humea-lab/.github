@@ -18,7 +18,7 @@ Laboratory head is prof. Pasi A. Karjalainen. Close collaboration is done with p
 
 HUMEA laboratory has been equipped and developed in European Regional Developments Fund projects funded by Regional Council of Pohjois-Savo.
 
-On Twitter @HUMEA_Lab and in LinkedIn & FB #HUMEA used in posts related to the laboratory. Need moreinformation? Visit: [HUMEA Lab](https://sites.uef.fi/humea/humea-laboratory/)
+On Twitter @HUMEA_Lab and in LinkedIn & FB #HUMEA used in posts related to the laboratory. Need more information? Visit: [HUMEA Lab](https://sites.uef.fi/humea/humea-laboratory/)
 
 ![image](https://sites.uef.fi/humea/wp-content/uploads/sites/40/2020/05/HUMEA_overview-768x361.jpg)
 ![image2](https://sites.uef.fi/humea/wp-content/uploads/sites/40/2020/06/Rahoittajan-logot_Humea-1024x256.jpg)
