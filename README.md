@@ -12,7 +12,7 @@ Facilities of the laboratory include:
 
 [Driving simulator environment](https://sites.uef.fi/humea/humea-laboratory/driving-simulator/)
 
-**A Virtual tour** into HUMEA laboratory (in Finnish) is found on this link. Another Virtual tour (in English) can be found [on this link](https://visuon.io/@mytech/HUMEA). A compact **brochure** of the lab: [HUMEAflyer](https://sites.uef.fi/humea/wp-content/uploads/sites/40/2024/04/UEF_HUMEA_flyer_2024.pdf)
+**A Virtual tour** into HUMEA laboratory (in Finnish) is found [on this link](https://visuon.io/@mytech/HUMEA). Another Virtual tour (in English) can be found [on this link](https://visuon.io/@mytech/HUMEA). A compact **brochure** of the lab: [HUMEAflyer](https://sites.uef.fi/humea/wp-content/uploads/sites/40/2024/04/UEF_HUMEA_flyer_2024.pdf)
 
 Laboratory head is prof. Pasi A. Karjalainen. Close collaboration is done with prof. Heikki Tikkanen (Institute of Biomedicine)
 
